@@ -1,9 +1,19 @@
+
 body{
-     background: #cccccc;
 
 }
 
+#banner{
+    width: 100%;
+}
 
+.principal{
+    background:  #cccccc;
+    padding: 30px
+
+
+
+}
 
 h1{
    text-align: center;
@@ -27,3 +37,56 @@ p{
    color: red;
 
 }
+
+.tens{
+    font-style: italic;
+
+}
+
+.benefícios{
+   background: #ffffff;
+   padding: 20px;
+
+}
+
+h2{
+     text-align: center;
+
+}
+
+ul{
+    display:inline-block
+    vertcical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imagembenefícios{
+     width: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
